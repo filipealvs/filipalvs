@@ -27,5 +27,5 @@ Fique à vontade para me seguir e acompanhar minha evolução na área de TI! �
 ## 📫 Como me encontrar:
 
 - LinkedIn: https://www.linkedin.com/in/filipe-alves-19119020b/
-- GitHub: https://github.com/seuusuarioaqui
+- GitHub: https://github.com/filipealvs
 - E-mail: feehalvees.1@gmail.com
