@@ -9,8 +9,8 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de **Estudante de Ciência de Dados (EFG) e futuro tecnólogo em Sistemas para Internet (UAB/IFMT)**
-- 💻 Apaixonado por tecnologia, programação e soluções digitais que geram impacto.  
-- 🔧 Em transição de carreira com experiência em manutenção de hardware, design gráfico e atendimento técnico.
+- 💻 Apaixonado por tecnologia, programação.  
+- 🔧 Em transição de carreira com experiência em Designer Gráfico, Arte Final, UX/DEsign.
 ---
 
 ### 📈 Linguagens mais Utilizadas 
